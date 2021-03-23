@@ -3,6 +3,8 @@
 
 **[Исходный код](https://github.com/leann-fraoigh/news-widget) виджета**
 
+**[Live demo](https://github.com/leann-fraoigh/news-widget)**
+
 ## Как виджет подключен
 
 1. Добавлен скрипт 
