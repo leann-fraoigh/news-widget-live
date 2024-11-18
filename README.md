@@ -5,6 +5,9 @@
 
 **[Live demo](https://leann-fraoigh.github.io/news-widget-live/)**
 
+**[Add to page](https://github.com/leann-fraoigh/htmlacademy-test)**
+
+
 ## Как виджет подключен
 
 1. Добавлен скрипт 
